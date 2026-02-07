@@ -1,3 +1,0 @@
-This project uses embedded firmware to scan wireless activity, identify unauthorized devices, and selectively restrict their connectivity.
-
-The exact firmware logic is intentionally excluded from public release due to security and ethical considerations.
